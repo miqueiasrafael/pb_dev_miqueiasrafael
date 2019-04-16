@@ -1,0 +1,9 @@
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\bin\Debug\netstandard2.0\PBWebApi.DataAccess.deps.json
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\bin\Debug\netstandard2.0\PBWebApi.DataAccess.dll
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\bin\Debug\netstandard2.0\PBWebApi.DataAccess.pdb
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.AssemblyInfo.cs
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.dll
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.DataAccess\obj\Debug\netstandard2.0\PBWebApi.DataAccess.pdb

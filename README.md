@@ -7,7 +7,7 @@ This app consists of the following projects:
 
 This Web API controller creation:
 
-For Paran√° Bank 2019 by Miqu√©ias Rafael 
+For Paran· Bank 2019 by MiquÈias Rafael 
 
 loading... updates!
 

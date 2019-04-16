@@ -1,0 +1,9 @@
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.deps.json
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.dll
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.pdb
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.csprojAssemblyReference.cache
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.AssemblyInfo.cs
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.dll
+C:\Users\Rafaelh3r\Downloads\Compressed\AspNetCore.Docs\AspNetCore.Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.pdb

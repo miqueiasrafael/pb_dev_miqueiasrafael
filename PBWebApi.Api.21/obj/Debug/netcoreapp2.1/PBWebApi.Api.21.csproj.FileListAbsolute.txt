@@ -1,0 +1,17 @@
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.Api.21.deps.json
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.Api.21.runtimeconfig.json
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.Api.21.runtimeconfig.dev.json
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.Api.21.dll
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.Api.21.pdb
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.DataAccess.dll
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\bin\Debug\netcoreapp2.1\PBWebApi.DataAccess.pdb
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.csprojAssemblyReference.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.csproj.CoreCompileInputs.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.RazorAssemblyInfo.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.RazorAssemblyInfo.cs
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.AssemblyInfoInputs.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.AssemblyInfo.cs
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.RazorTargetAssemblyInfo.cache
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.csproj.CopyComplete
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.dll
+C:\Users\Rafaelh3r\source\repos\PB_Api\PBWebApi.Api.21\obj\Debug\netcoreapp2.1\PBWebApi.Api.21.pdb
